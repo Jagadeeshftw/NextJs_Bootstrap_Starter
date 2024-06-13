@@ -13,7 +13,8 @@ Welcome to the Next.js Bootstrap Starter! This project provides a foundational s
 
 Before you begin, ensure you have the following installed:
 
-- [Node.js](https://nodejs.org/en/) (>= 12.x)
+- [Node.js](https://nodejs.org/en/) (Node.js 18.17 or later.)
+- macOS, Windows (including WSL), and Linux are supported.
 - npm (comes with Node.js) or [Yarn](https://yarnpkg.com/)
 
 ## Getting Started
