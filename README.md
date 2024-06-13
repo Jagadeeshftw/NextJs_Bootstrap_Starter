@@ -1,36 +1,58 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Next.js Bootstrap Starter
+
+Welcome to the Next.js Bootstrap Starter! This project provides a foundational setup for building responsive and modern web applications using [Next.js](https://nextjs.org/) and [Bootstrap](https://getbootstrap.com/). It's designed to give developers a quick and organized way to start developing their Next.js projects integrated with Bootstrap for styling.
+
+## Features
+
+- **Next.js**: The React framework for production.
+- **Bootstrap**: Powerful, extensible, and customizable CSS framework.
+- **Dynamic Import**: Client-side dynamic imports for optimal performance.
+- **ES Module Support**: Configured to use ECMAScript Modules (ESM).
+
+## Prerequisites
+
+Before you begin, ensure you have the following installed:
+
+- [Node.js](https://nodejs.org/en/) (>= 12.x)
+- npm (comes with Node.js) or [Yarn](https://yarnpkg.com/)
 
 ## Getting Started
 
-First, run the development server:
+Follow these steps to get started with this project:
+
+### 1. Clone the Repository
+
+First, clone this repository to your local machine:
+
+```bash
+git clone https://github.com/Jagadeeshftw/NextJs_Bootstrap_Starter.git
+cd NextJs_Bootstrap_Starter
+```
+
+### 2. Install Dependencies
+
+Next, install the project dependencies using npm or Yarn:
+
+```bash
+npm install
+# or
+yarn install
+```
+
+### 3. Run the Development Server
+
+After installing the dependencies, run the development server:
 
 ```bash
 npm run dev
 # or
 yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Navigate to http://localhost:3000 in your browser to see your application in action.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Reporting Issues
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+If you find any bugs or have a feature request, please file an issue on the [GitHub issues page](https://github.com/Jagadeeshftw/NextJs_Bootstrap_Starter/issues).
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+If you have any questions or want to reach out for collaboration, feel free to contact [Jagadeesh](https://www.linkedin.com/in/jagadeesh-b-042b38208/).
